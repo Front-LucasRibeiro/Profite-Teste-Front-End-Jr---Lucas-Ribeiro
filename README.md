@@ -1,4 +1,4 @@
-# teste-profite-jr
+# Profite-Teste-Front-End-Jr---Lucas-Ribeiro
 
 <h3>Getting Started production</h3>
 Open folder dist/index.html <br>
@@ -13,6 +13,5 @@ Utilizar servidor para renderizar produtos via request ajax - JSON
 <b>executar todas tarefas do gulp para gerar a pasta dist(produção)</b> -> npm run gulp
 
 Open in your browser http://localhost:3000
-# Profite-Teste-Front-End-Jr---Lucas-Ribeiro
-# Profite-Teste-Front-End-Jr---Lucas-Ribeiro
-# Profite-Teste-Front-End-Jr---Lucas-Ribeiro
+
+
